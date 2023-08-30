@@ -1,7 +1,7 @@
 {
-  "name": "bust-a-gem",
+  "name": "bust-a-gem-async",
   "displayName": "Bust A Gem",
-  "version": "0.1.8",
+  "version": "1.0.0",
   "publisher": "gurgeous",
   "description": "Go to Definition for Ruby, and quickly open gems.",
   "icon": "images/icon.png",
